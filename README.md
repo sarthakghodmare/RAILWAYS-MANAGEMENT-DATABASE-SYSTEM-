@@ -28,14 +28,19 @@ Interactive visualization of bookings, revenue, passenger demographics, and stat
 🛠️ Tech Stack
 
 1.Database: PostgreSQL / SQL
+
 2.Visualization: Power BI
+
 3.Languages Used: SQL (DDL, DML, Views, Indexing, Analytical Queries)
+
 4.File Types: .sql (Schema + Operations), .pbix (Dashboard)
 
 🚀 How to Use
 
 1.Run Development of project.sql to create schema and insert initial data.
+
 2.Run operation of project.sql to execute queries, analytics, and views.
+
 3.Open Railways Management.pbix in Power BI to visualize the system.
 
 📷 Dashboard Preview
