@@ -44,5 +44,5 @@ Interactive visualization of bookings, revenue, passenger demographics, and stat
 3.Open Railways Management.pbix in Power BI to visualize the system.
 
 📷 Dashboard Preview
-![Railways Dashboard]([dashboard.png](https://github.com/sarthakghodmare/RAILWAYS-MANAGEMENT-DATABASE-SYSTEM-/blob/main/Railways%20Managemnt.pbix))
+![Railways Dashboard](https://github.com/sarthakghodmare/RAILWAYS-MANAGEMENT-DATABASE-SYSTEM-/blob/main/RAILWAYS%20MANAGEMENT%20DATABASE%20SYSTEM%20SNAPSHOT.png))
 
